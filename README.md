@@ -16,7 +16,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsar1ansel&label=Profile%20views&color=0e75b6&style=flat" alt="afsar1ansel" /> </p>
-<img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
