@@ -20,7 +20,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- Checkout my **[Resume](https://drive.google.com/file/d/1dTFFjb3gYkyrehczvPB3tWlEywAeUhCi/view?usp=sharing)**
+- Checkout my **[Resume](https://drive.google.com/file/d/1bqrBU6CtLAoa8nTZxXmtgJ0p60WCbZ5u/view?usp=sharing)**
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -32,7 +32,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 
 - ⚡ Fun Fact: You only achieve your dreams if you dare to dream them first.
 
-- 💬 Have a look at my [Portfolio](https://.github.io/)
+- 💬 Have a look at my [Portfolio](https://afsar1ansel.github.io/)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
