@@ -17,7 +17,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsar1ansel&label=Profile%20views&color=0e75b6&style=flat" alt="afsar1ansel" /> </p>
 <img align="right" alt="Coding" width="400"  src="./pic/gif4.gif">
-<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" /> -->
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
 - Checkout my **[Resume](https://drive.google.com/file/d/1ZJhM0S0mAKSxkBvXz4Spj1pCagyGsulV/view?usp=sharing)**
@@ -143,7 +143,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 ## 📊 My Github Stats
 
 <!-- github status  -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afsar1ansel" alt="Ankit Kumar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afsar1ansel" alt="" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
 <!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=afsar1ansel&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
