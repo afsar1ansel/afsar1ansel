@@ -20,7 +20,7 @@ Hello there, Folks! I'm Md Afsar, a dedicated Full Stack Web Developer with a pe
 <!-- <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" /> -->
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- Checkout my **[Resume](https://drive.google.com/file/d/1ZJhM0S0mAKSxkBvXz4Spj1pCagyGsulV/view?usp=sharing)**
+- Checkout my **[Resume]([https://drive.google.com/file/d/1ZJhM0S0mAKSxkBvXz4Spj1pCagyGsulV/view?usp=sharing](https://drive.google.com/file/d/1RGu1c1O29l0pLp5y19CKSUIEhU_wkJ4j/view?usp=sharing))**
 
 - 🌱 I’m currently learning **Node.js**
 
